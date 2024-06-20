@@ -55,7 +55,7 @@ width: 100%;
 
     position: absolute;
     bottom: -80px;
-    background-color: steelblue;
+    background-color: rgb(231, 17, 70);
     color: white;
     border: none;
     padding: 10px 20px;
@@ -67,7 +67,7 @@ width: 100%;
 
 .btn:hover {
 
-    filter: brightness(1.5);
+    filter: brightness(2.5);
 }
 
 
